@@ -1,10 +1,40 @@
 .navbar {
     background-color: #ffb833;
+    padding: 20px;
 }
 
 .quemSomos {
     background-color:  #9ab0cb;
+    padding-bottom: 30px;
+    padding-top: 20;
 }
+.contato {
+    background-color: #EEE8AA;
+    padding-bottom: 30px;
+    padding-top: 20;
+}
+.serviços {
+    background-color: #E6E6FA;
+    padding-bottom: 30px;
+    padding-top: 20;
+}
+.parceiros {
+    background-color: #FFDAB9;
+    padding-bottom: 30px;
+    padding-top: 20;
+}
+
 .margin {
     padding-top: 50px;
+}
+.imgCentro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50px;
+    padding: 30px;
+}
+.textoCentro {
+    text-align: center;
 }
