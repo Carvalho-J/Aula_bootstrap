@@ -13,7 +13,7 @@
     padding-bottom: 30px;
     padding-top: 20;
 }
-.serviços {
+.servicos {
     background-color: #E6E6FA;
     padding-bottom: 30px;
     padding-top: 20;
@@ -26,6 +26,7 @@
 
 .margin {
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 .imgCentro {
     display: block;
@@ -37,4 +38,14 @@
 }
 .textoCentro {
     text-align: center;
+}
+.img {
+	max-width:auto;
+    height:auto;
+    width: 100%;
+}
+.bg-footer {
+    background-color: #1a0600;
+    color: #00ffff;
+    padding: 10px;
 }
